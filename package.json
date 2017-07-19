@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Ziad Saab <ziad.saab@gmail.com>",
+  "author": "Vincent Lau (2017) modified, original - Ziad Saab <ziad.saab@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^0.8.6",
